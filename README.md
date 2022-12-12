@@ -29,5 +29,9 @@ For more information on how to use this project click on this link **"https://me
  
 ## NB:It's is better to first run all the technologies state Above in order to understand it well and use it properly. know that this is protoype so there are still some funtionality that is not in right now, for  any update you will be informated.
 
-click here to get all directory cantaining all files
+> click here to get all directory cantaining all files
 (https://github.com/devproibrah/Ikibina.git)
+
+> click here to download project report files
+(https://mega.nz/folder/YCs1TJDR#PKbbaFH9h9VtsJ0QiBxYwg)
+
