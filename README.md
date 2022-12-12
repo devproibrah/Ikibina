@@ -17,17 +17,16 @@ this system is coded using the following:
 in this system the is Fours
 * System Admin who controls everything
 * Ikibina **(Coperative)** Admin who controls ikibina **(Coperative)** members.
-> User page
- * this system  starts from  **"Millionposes_Project_Prototype/Admin/user/newhome.php"** path.
- * to login as Admin use: username **"admin@pos.com"**  password **"root"**.
- * to login as a normal user, first create an account and then login throuh that created one.
-> Admin
- * you can access admin's options through signing up using above provided username and password.
+* Ikibina **(Coperative)** Member
+> For System Admin
+ * To login use: Telephone **0782519290**  password **12345**,alternatively go into the database and manually inter telephone number, hashed password, Fname and last name of System.
+> For Ikibina Admin
+ * to login first creact Ikibina **(Cooperative)** use credential you have registered.
+> For Ikibina member
+ * to login first creact Ikibina **(Cooperative)** member, Ikibina **(Cooperative)** admin should have registered account for a member using thier account and give the member credentials to use.
+ ### For more information on how to use this project click on this link **"https://mega.nz/folder/YCs1TJDR#PKbbaFH9h9VtsJ0QiBxYwg"** and download technical report of this project.
  
-## NB:Generally, this program starts from **"https://mega.nz/folder/YCs1TJDR#PKbbaFH9h9VtsJ0QiBxYwg"** path otherwise it may not work as intended.
-
-## and this system can't be run on Github because Github is a static site hosting service and doesn't support server-side code such as, PHP, Ruby, or Pytho. therefore, it is recommended to download all files and run them on your computer.
-
+## NB:It's is better to first run all the technologies state Above in order to understand it well and use it properly. know that this is protoype so there are still some funtionality that is not in right now, for  any update you will be informated.
 
 click here to get all directory cantaining all files
 (https://github.com/Tuyibra/Millionposes_Project_Prototype)
