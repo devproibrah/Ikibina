@@ -25,7 +25,7 @@ in this system the is Fours
 > For Ikibina member
  * To login first creact Ikibina **(Cooperative)** member, Ikibina **(Cooperative)** admin should have registered account for a member using thier account and give the member credentials to use.
 
-For more information on how to use this project click on this link **"https://mega.nz/folder/YCs1TJDR#PKbbaFH9h9VtsJ0QiBxYwg"** and download technical report of this project.
+For more information on how to use this project click on this link **"https://mega.nz/folder/YCs1TJDR#PKbbaFH9h9VtsJ0QiBxYwg"** and download technical report of this project,ppt presentd and pdf of technical report.
  
 ## NB:It's is better to first run all the technologies state Above in order to understand it well and use it properly. know that this is protoype so there are still some funtionality that is not in right now, for  any update you will be informated.
 
