@@ -21,10 +21,11 @@ in this system the is Fours
 > For System Admin
  * To login use: Telephone **0782519290**  password **12345**,alternatively go into the database and manually inter telephone number, hashed password, Fname and last name of System.
 > For Ikibina Admin
- * to login first creact Ikibina **(Cooperative)** use credential you have registered.
+ * To login first creact Ikibina **(Cooperative)** use credential you have registered.
 > For Ikibina member
- * to login first creact Ikibina **(Cooperative)** member, Ikibina **(Cooperative)** admin should have registered account for a member using thier account and give the member credentials to use.
- ### For more information on how to use this project click on this link **"https://mega.nz/folder/YCs1TJDR#PKbbaFH9h9VtsJ0QiBxYwg"** and download technical report of this project.
+ * To login first creact Ikibina **(Cooperative)** member, Ikibina **(Cooperative)** admin should have registered account for a member using thier account and give the member credentials to use.
+
+For more information on how to use this project click on this link **"https://mega.nz/folder/YCs1TJDR#PKbbaFH9h9VtsJ0QiBxYwg"** and download technical report of this project.
  
 ## NB:It's is better to first run all the technologies state Above in order to understand it well and use it properly. know that this is protoype so there are still some funtionality that is not in right now, for  any update you will be informated.
 
