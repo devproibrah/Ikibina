@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# Guidline of how to use this ikibina system
+# Guidline of how to use this ikibina **(Coperative)** system
 this system is coded using the following:
 * laravel framework
 * laravel sunctum for security and authentication
@@ -9,9 +9,14 @@ this system is coded using the following:
 * Boostrap
 * javascript
 
-### you must have created mysql database called **"ikibina"** and import tables that are in this folder (https://github.com/Tuyibra/Millionposes_Project_Prototype/tree/main/database/mposes)
-xamp server is recommende.
+### To use this project, you should have created mysql database called **"ikibina"**,having php and composer installed on you system. 
+### To import tables use larave migration command **("php artisan db:seed")**  and spatie migration command **("php artisan db:seed")** 
+### Run project using  **("php artisan serve")** 
+
 ## running steps
+in this system the is Fours
+* System Admin who controls everything
+* Ikibina **(Coperative)** Admin who controls ikibina **(Coperative)** members.
 > User page
  * this system  starts from  **"Millionposes_Project_Prototype/Admin/user/newhome.php"** path.
  * to login as Admin use: username **"admin@pos.com"**  password **"root"**.
