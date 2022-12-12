@@ -1,7 +1,15 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# Guidline of how to user this system
-### you must have created database called **"mposes"** and import tables that are in this folder (https://github.com/Tuyibra/Millionposes_Project_Prototype/tree/main/database/mposes)
+# Guidline of how to use this ikibina system
+this system is coded using the following:
+* laravel framework
+* laravel sunctum for security and authentication
+* laravel spatie for roles and permmissions
+* HTML 
+* Boostrap
+* javascript
+
+### you must have created mysql database called **"ikibina"** and import tables that are in this folder (https://github.com/Tuyibra/Millionposes_Project_Prototype/tree/main/database/mposes)
 xamp server is recommende.
 ## running steps
 > User page
